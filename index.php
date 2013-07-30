@@ -13,7 +13,7 @@
 
 <body>
 
-<?php echo "Prueba"; ?>
+<?php echo "Prueba dos"; ?>
 
 </body>
 
